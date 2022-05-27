@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a
-- Friday is taco tuesday
+Friday is taco tuesday
 
 <!---
 alessioton/alessioton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
